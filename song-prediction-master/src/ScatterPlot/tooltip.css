@@ -1,0 +1,15 @@
+.tooltip {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 4px;
+  color: #fff;
+  font-size: 12px;
+  padding: 12px;
+}
+
+.tooltip>.title {
+  font-size: 12px;
+}
+
+.tooltip>.artist {
+  font-size: 10px;
+}
